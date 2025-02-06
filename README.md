@@ -19,7 +19,17 @@ The system consists of skin detection, hand localization, hand tracking and gues
 ![ex8](https://github.com/user-attachments/assets/3baf155e-076c-4ee0-bcfc-3fcc5b970ddd)
 
 
+## Tools
 
+<img src="https://img.shields.io/badge/-Caffe-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Skin Segmentation-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Guesture Recognition-3776ab?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dynamic Time Wrap-EF5350?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Human Machine interaction-EE7600?&style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Embedded Platform-0097A7?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Robot-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autoencoder-3776ab?&style=for-the-badge&logo=python&logoColor=white" />
 
 
 
@@ -29,4 +39,5 @@ As shown in the following figure, we deploy it in various platforms.
 
 ## Papers
 Lei, Y., Yuan, W., Wang, H., Wenhu, Y., & Bo, W. (2016). A skin segmentation algorithm based on stacked autoencoders. IEEE Transactions on Multimedia, 19(4), 740-749.
+
 Lei, Y., Hongpeng, W., Dianxiong, T., & Jue, W. (2014, August). A real-time hand gesture recognition algorithm for an embedded system. In 2014 IEEE International Conference on Mechatronics and Automation (pp. 901-905). IEEE.
