@@ -35,6 +35,8 @@ The system consists of skin detection, hand localization, hand tracking and gues
 
 ## Demonstration
 As shown in the following figure, we deploy it in various platforms.
+
+
 ![handguesturerecognition](https://github.com/user-attachments/assets/a34189dc-288d-4d0c-8118-318d34d1a942)
 
 ## Papers
